@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Gaurav<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Javascript</h2>
+<h2>👋 Hi, I’m Gaurav<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Javascript</h2>
 
 ###
 
